@@ -2,7 +2,7 @@ import java.math.RoundingMode;
 import java.math.BigDecimal;
 
 
-public class Main{
+public class PiE{
 	public static void main(String[] args) {
 		BigDecimal x = new BigDecimal("1.0");
 		BigDecimal n = new BigDecimal("0.0");

@@ -26,8 +26,8 @@ public class Main{
 			
 			p = a.add(d);
 			
-	    n = n.add(p);
-			x = x.add(c);
+	                n = n.add(p);
+	 		x = x.add(c);
 				
 
 		 }
